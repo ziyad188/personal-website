@@ -1,0 +1,32 @@
+body {
+    background-color:floralwhite;
+    font-family:sans-serif;
+    letter-spacing: .009cm;
+  
+}
+h3{
+    color: cyan;
+}
+h1{
+    color: cyan;
+}
+p {
+    font-family:cursive;
+    
+}
+hr{
+    width: 2cm;
+    border:  dotted;
+    border-style: none none dotted;
+}
+.dd{
+    font-size: 20px;
+}
+button{
+    width: 100px;
+    
+}
+img{
+    border-radius: 10cm;
+    width: 190px;
+}
